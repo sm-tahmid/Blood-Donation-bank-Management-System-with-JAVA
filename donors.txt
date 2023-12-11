@@ -1,0 +1,17 @@
+Tahmid Abir,A+,2023-01-25,Uttora,01905055664,tahmidabir@gmail.com,21
+Saif Ahmed,A+,2023-01-01,Badda,012654885685,saifahmed@gmail.com,22
+Akib,B+,2023-02-23,uttora,01780908067,akibhasan@gmail.com,35
+Sumaiya,B+,2023-03-12,Boshundhara,01905612365,sumaiya12@gmail.com,45
+Fariya Akter,AB+,2023-02-14,Boshundhora,01715698456,fariyaakter12@gmail.com,54
+Rifat Hasan,A-,2023-05-29,Badda,01956321548,rifathasan12@gmail.com,33
+Rahim Ali,AB-,2023-03-04,Badda,01852563145,rahmanali23@gmail.com,74
+Abdul Manan,A+,2023-04-23,Uttora,01713488569,abdulmannan12@gmail.com,67
+Khadiza Begum,A+,2023-01-21,Uttora,01956321458,khadizabegum56@gmail.com,68
+Shakil Hossain,AB+,2023-07-14,Mirpur,01955632147,shakilhossain15@gmail.com,26
+Sabbir Ahmed,A+,2023-06-15,Uttora,01632569845,sabbirahmed22@gmail.com,29
+Sadia Akter,A+,2023-04-14,Uttora,01963254158,sadiaakter12@gmail.com,27
+Shihab Rahman,O+,2023-05-04,Mirpur,01752145698,shihabrahman123@gmail.com,35
+Rimi Akter,O-,2023-03-06,Bonani,01756321458,rimiakter125@gmail.com,53
+Rahman Ali,O-,2023-01-30,Gulshan,01956321458,rahmanali125@gmail.com,58
+Shahadat Rahman,B-,2023-04-20,Bonani,01356985214,shahadatrahman@gmail.com,33
+Alif Hossain,B+,2023-02-15,Dhaka,01751236548,alifahmed@gmail.com,23
