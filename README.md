@@ -47,11 +47,6 @@ Developed By:
 
 - None
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 **Note:** For security reasons, it's recommended to change the default password (`admin`) before deploying the system in a production environment.
 
