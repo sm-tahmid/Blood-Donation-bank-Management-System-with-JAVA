@@ -1,1 +1,1 @@
-# Blood-Donation-bank-Management-System-with-JAVA
+The goal of this Blood Donation System Management project is to handle the urgent requirement for a well-functioning, structured system to oversee blood donation procedures. Blood transfusions for various illnesses, surgeries, and emergencies are made possible by blood donation, which is essential to healthcare systems throughout the globe. Through this effort, we have attempted to improve the organization and efficiency of the blood donation system.
